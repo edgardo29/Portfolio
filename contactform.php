@@ -13,6 +13,7 @@
      header("Location: index.html");
  }
 
+?>
 
 
 
