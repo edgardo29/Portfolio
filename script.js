@@ -28,7 +28,7 @@ $(document).ready(function() {
     })
 
     let skills = new Typed(".list", {
-        strings: ["HTML", "CSS","Javascript","Python", "Express", "Node","React","MongoDB", "Bootstrap", "jQuery"],
+        strings: ["HTML", "CSS","Javascript","Python", "Express", "Node","React/React Native","MongoDB", "Bootstrap", "SQL"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
